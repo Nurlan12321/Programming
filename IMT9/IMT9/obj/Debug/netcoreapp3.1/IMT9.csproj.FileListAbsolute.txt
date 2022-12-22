@@ -1,0 +1,14 @@
+C:\Users\Нурлан\source\repos\IMT9\IMT9\bin\Debug\netcoreapp3.1\IMT9.exe
+C:\Users\Нурлан\source\repos\IMT9\IMT9\bin\Debug\netcoreapp3.1\IMT9.deps.json
+C:\Users\Нурлан\source\repos\IMT9\IMT9\bin\Debug\netcoreapp3.1\IMT9.runtimeconfig.json
+C:\Users\Нурлан\source\repos\IMT9\IMT9\bin\Debug\netcoreapp3.1\IMT9.runtimeconfig.dev.json
+C:\Users\Нурлан\source\repos\IMT9\IMT9\bin\Debug\netcoreapp3.1\IMT9.dll
+C:\Users\Нурлан\source\repos\IMT9\IMT9\bin\Debug\netcoreapp3.1\IMT9.pdb
+C:\Users\Нурлан\source\repos\IMT9\IMT9\obj\Debug\netcoreapp3.1\IMT9.csproj.AssemblyReference.cache
+C:\Users\Нурлан\source\repos\IMT9\IMT9\obj\Debug\netcoreapp3.1\IMT9.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Нурлан\source\repos\IMT9\IMT9\obj\Debug\netcoreapp3.1\IMT9.AssemblyInfoInputs.cache
+C:\Users\Нурлан\source\repos\IMT9\IMT9\obj\Debug\netcoreapp3.1\IMT9.AssemblyInfo.cs
+C:\Users\Нурлан\source\repos\IMT9\IMT9\obj\Debug\netcoreapp3.1\IMT9.csproj.CoreCompileInputs.cache
+C:\Users\Нурлан\source\repos\IMT9\IMT9\obj\Debug\netcoreapp3.1\IMT9.dll
+C:\Users\Нурлан\source\repos\IMT9\IMT9\obj\Debug\netcoreapp3.1\IMT9.pdb
+C:\Users\Нурлан\source\repos\IMT9\IMT9\obj\Debug\netcoreapp3.1\IMT9.genruntimeconfig.cache
