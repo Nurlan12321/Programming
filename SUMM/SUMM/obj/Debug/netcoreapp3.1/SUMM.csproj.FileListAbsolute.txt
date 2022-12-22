@@ -1,0 +1,14 @@
+C:\Users\Нурлан\source\repos\SUMM\SUMM\bin\Debug\netcoreapp3.1\SUMM.exe
+C:\Users\Нурлан\source\repos\SUMM\SUMM\bin\Debug\netcoreapp3.1\SUMM.deps.json
+C:\Users\Нурлан\source\repos\SUMM\SUMM\bin\Debug\netcoreapp3.1\SUMM.runtimeconfig.json
+C:\Users\Нурлан\source\repos\SUMM\SUMM\bin\Debug\netcoreapp3.1\SUMM.runtimeconfig.dev.json
+C:\Users\Нурлан\source\repos\SUMM\SUMM\bin\Debug\netcoreapp3.1\SUMM.dll
+C:\Users\Нурлан\source\repos\SUMM\SUMM\bin\Debug\netcoreapp3.1\SUMM.pdb
+C:\Users\Нурлан\source\repos\SUMM\SUMM\obj\Debug\netcoreapp3.1\SUMM.csproj.AssemblyReference.cache
+C:\Users\Нурлан\source\repos\SUMM\SUMM\obj\Debug\netcoreapp3.1\SUMM.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Нурлан\source\repos\SUMM\SUMM\obj\Debug\netcoreapp3.1\SUMM.AssemblyInfoInputs.cache
+C:\Users\Нурлан\source\repos\SUMM\SUMM\obj\Debug\netcoreapp3.1\SUMM.AssemblyInfo.cs
+C:\Users\Нурлан\source\repos\SUMM\SUMM\obj\Debug\netcoreapp3.1\SUMM.csproj.CoreCompileInputs.cache
+C:\Users\Нурлан\source\repos\SUMM\SUMM\obj\Debug\netcoreapp3.1\SUMM.dll
+C:\Users\Нурлан\source\repos\SUMM\SUMM\obj\Debug\netcoreapp3.1\SUMM.pdb
+C:\Users\Нурлан\source\repos\SUMM\SUMM\obj\Debug\netcoreapp3.1\SUMM.genruntimeconfig.cache
