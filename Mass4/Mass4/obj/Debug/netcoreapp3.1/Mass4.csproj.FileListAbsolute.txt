@@ -1,0 +1,13 @@
+C:\Users\Нурлан\source\repos\Mass4\Mass4\bin\Debug\netcoreapp3.1\Mass4.exe
+C:\Users\Нурлан\source\repos\Mass4\Mass4\bin\Debug\netcoreapp3.1\Mass4.deps.json
+C:\Users\Нурлан\source\repos\Mass4\Mass4\bin\Debug\netcoreapp3.1\Mass4.runtimeconfig.json
+C:\Users\Нурлан\source\repos\Mass4\Mass4\bin\Debug\netcoreapp3.1\Mass4.runtimeconfig.dev.json
+C:\Users\Нурлан\source\repos\Mass4\Mass4\bin\Debug\netcoreapp3.1\Mass4.dll
+C:\Users\Нурлан\source\repos\Mass4\Mass4\bin\Debug\netcoreapp3.1\Mass4.pdb
+C:\Users\Нурлан\source\repos\Mass4\Mass4\obj\Debug\netcoreapp3.1\Mass4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Нурлан\source\repos\Mass4\Mass4\obj\Debug\netcoreapp3.1\Mass4.AssemblyInfoInputs.cache
+C:\Users\Нурлан\source\repos\Mass4\Mass4\obj\Debug\netcoreapp3.1\Mass4.AssemblyInfo.cs
+C:\Users\Нурлан\source\repos\Mass4\Mass4\obj\Debug\netcoreapp3.1\Mass4.csproj.CoreCompileInputs.cache
+C:\Users\Нурлан\source\repos\Mass4\Mass4\obj\Debug\netcoreapp3.1\Mass4.dll
+C:\Users\Нурлан\source\repos\Mass4\Mass4\obj\Debug\netcoreapp3.1\Mass4.pdb
+C:\Users\Нурлан\source\repos\Mass4\Mass4\obj\Debug\netcoreapp3.1\Mass4.genruntimeconfig.cache
