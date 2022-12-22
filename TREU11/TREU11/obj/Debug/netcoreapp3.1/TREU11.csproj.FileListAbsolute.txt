@@ -1,0 +1,14 @@
+C:\Users\Нурлан\source\repos\TREU11\TREU11\bin\Debug\netcoreapp3.1\TREU11.exe
+C:\Users\Нурлан\source\repos\TREU11\TREU11\bin\Debug\netcoreapp3.1\TREU11.deps.json
+C:\Users\Нурлан\source\repos\TREU11\TREU11\bin\Debug\netcoreapp3.1\TREU11.runtimeconfig.json
+C:\Users\Нурлан\source\repos\TREU11\TREU11\bin\Debug\netcoreapp3.1\TREU11.runtimeconfig.dev.json
+C:\Users\Нурлан\source\repos\TREU11\TREU11\bin\Debug\netcoreapp3.1\TREU11.dll
+C:\Users\Нурлан\source\repos\TREU11\TREU11\bin\Debug\netcoreapp3.1\TREU11.pdb
+C:\Users\Нурлан\source\repos\TREU11\TREU11\obj\Debug\netcoreapp3.1\TREU11.csproj.AssemblyReference.cache
+C:\Users\Нурлан\source\repos\TREU11\TREU11\obj\Debug\netcoreapp3.1\TREU11.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Нурлан\source\repos\TREU11\TREU11\obj\Debug\netcoreapp3.1\TREU11.AssemblyInfoInputs.cache
+C:\Users\Нурлан\source\repos\TREU11\TREU11\obj\Debug\netcoreapp3.1\TREU11.AssemblyInfo.cs
+C:\Users\Нурлан\source\repos\TREU11\TREU11\obj\Debug\netcoreapp3.1\TREU11.csproj.CoreCompileInputs.cache
+C:\Users\Нурлан\source\repos\TREU11\TREU11\obj\Debug\netcoreapp3.1\TREU11.dll
+C:\Users\Нурлан\source\repos\TREU11\TREU11\obj\Debug\netcoreapp3.1\TREU11.pdb
+C:\Users\Нурлан\source\repos\TREU11\TREU11\obj\Debug\netcoreapp3.1\TREU11.genruntimeconfig.cache
